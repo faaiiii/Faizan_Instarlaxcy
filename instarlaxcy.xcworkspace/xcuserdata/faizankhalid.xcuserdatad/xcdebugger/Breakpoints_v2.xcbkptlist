@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "instarlaxcy/FirebaseConnector.swift"
+            timestampString = "579379861.648566"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getImages(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in instarlaxcy.FirebaseConnector.getImages(completion: (Swift.Array&lt;instarlaxcy.FBImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "instarlaxcy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faizankhalid/Desktop/instarlaxcy-master/instarlaxcy/FirebaseConnector.swift"
+                  timestampString = "578350921.0311641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "534">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((key: Swift.String, value: Swift.AnyObject)) -&gt; Swift.Optional&lt;instarlaxcy.FBImage&gt; in closure #1 (__C.FIRDataSnapshot) -&gt; () in instarlaxcy.FirebaseConnector.getImages(completion: (Swift.Array&lt;instarlaxcy.FBImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "instarlaxcy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/faizankhalid/Desktop/instarlaxcy-master/instarlaxcy/FirebaseConnector.swift"
+                  timestampString = "578350921.034606"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "instarlaxcy/FirebaseConnector.swift"
+            timestampString = "579379861.64991"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getImages(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
